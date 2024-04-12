@@ -1,26 +1,26 @@
 ## This Repo Contains the Rust code used for learning
 
-# To Create a new project
+### To Create a new project
 ```
 cargo new 'project_name'
 ```
 
-# To build
+### To build
 ```
 cargo build
 ```
 
-# To build and run
+### To build and run
 ```
 cargo run
 ```
 
-# To check for any errors (useful when working on a big codebase)
+### To check for any errors (useful when working on a big codebase)
 ```
 cargo check
 ```
 
-# To update dependencies/crates
+### To update dependencies/crates
 ```
 cargo update
 ```
